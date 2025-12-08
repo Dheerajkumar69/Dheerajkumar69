@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">I am Dheeraj Kumar</h1>
+<h3 align="center">Full-Stack Learner | C++ & JavaScript Developer | Exploring React</h3>
+
 🔭 Currently building: Collab Notes<br>🌱 Learning: Three.js & Spline (3D Web experiences)<br>💬 Ask me about: React, JavaScript, Node.js<br>📫 Reach me at: dheerajsingh9933@gmail.com<br>⚡ Fun fact: My side projects slowly become full projects 😅
 
 
