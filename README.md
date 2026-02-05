@@ -20,6 +20,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dheerajkumar69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🧠 My 3D GitHub Commits
+
+<p align="center">
+  <a href="https://3d-github-graph-demo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%203D%20GitHub%20Graph-0d1117?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  An interactive 3D visualization of my GitHub contributions built with <b>Three.js</b> 🚀
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
