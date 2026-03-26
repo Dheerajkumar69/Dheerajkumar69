@@ -139,7 +139,7 @@ const dheeraj = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dheerajkumar69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dheerajkumar69&theme=nord&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -155,11 +155,11 @@ const dheeraj = {
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Dheerajkumar69&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Dheeraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dheerajkumar69&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
