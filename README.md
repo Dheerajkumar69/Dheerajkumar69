@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dheeraj%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%26%20JS%20%7C%20Exploring%203D%20Web&descAlignY=58&descSize=18&animation=fadeIn" />
+# 👨‍💻 Dheeraj Kumar
+### Full-Stack Developer · C++ & JS · Exploring 3D Web
 
 </div>
 
@@ -139,17 +140,17 @@ const dheeraj = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dheerajkumar69&theme=nord&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dheerajkumar69&theme=onedark&no-frame=true&margin-w=5&row=1)
 
 </div>
 
 ---
 
-## ✍️ Dev Quote of the Day
+## ✍️ Dev Quote
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
@@ -167,9 +168,9 @@ const dheeraj = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Dheerajkumar69&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Dheerajkumar69&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 *Thanks for stopping by! Let's build something cool together.* 🚀
 
