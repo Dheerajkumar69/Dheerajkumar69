@@ -124,23 +124,29 @@ const dheeraj = {
 
 ---
 
-## 🧠 My 3D GitHub Contributions
+## 🧠 3D GitHub Contributions
 
 <div align="center">
 
-[![3D Contribution Graph](https://img.shields.io/badge/View%20My%203D%20GitHub%20Graph-%230d1117?style=for-the-badge&logo=three.js&logoColor=white)](https://3d-github-graph-demo.vercel.app)
+🔗 **[Click here to view my interactive 3D contribution graph](https://3d-github-graph-demo.vercel.app)**
 
-*An interactive 3D visualization of my GitHub contributions — built with Three.js 🚀*
+*Built with Three.js — a 3D visualization of my GitHub activity 🚀*
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Core Strengths
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Dheerajkumar69&theme=onedark&no-frame=true&margin-w=5&row=1)
+| Area | Skills |
+|---|---|
+| 🖥️ Frontend | React · Next.js · Vue · Angular · Three.js |
+| ⚙️ Backend | Node.js · Express · Socket.io |
+| 🗄️ Databases | MongoDB · PostgreSQL · MySQL · Firebase · Supabase |
+| ☁️ Cloud | AWS · Azure · GCP · Vercel · Docker |
+| 🎨 Design | Figma · Blender · Canva |
 
 </div>
 
