@@ -24,11 +24,15 @@ I'm a **full-stack developer** who loves building things that look as good as th
 
 ```ts
 const dheeraj = {
-  pronouns: "he/him",
   role: "Full-Stack Developer",
-  currentlyBuilding: ["Collab Notes 📝", "Meow Analytics 📊"],
+  flagshipProjects: [
+    "unify.dev",
+    "Meow Analytics 📊 — privacy-first web analytics (funnels, cohorts, Core Web Vitals)",
+    "Collab Notes 📝 — real-time collaborative note-taking, live on Vercel",
+  ],
+  stack: ["React", "TypeScript", "Node.js", "Fastify", "Supabase", "PostgreSQL", "Docker"],
+  foundations: ["C", "C++", "Data Structures & Algorithms"],
   currentlyLearning: ["Three.js", "Spline", "3D Web Experiences"],
-  askMeAbout: ["React", "TypeScript", "Node.js", "Supabase", "PostgreSQL", "C++"],
   funFact: "My side projects slowly become full projects 😅",
   reachMe: "dheerajsingh9933@gmail.com",
   goal: "Ship something people actually use every day 🎯",
