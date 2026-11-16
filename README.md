@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dheeraj%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20C%2B%2B%20%26%20JavaScript%20%C2%B7%20Exploring%20the%203D%20Web&descSize=18&descAlignY=58" width="100%" alt="Dheeraj Kumar banner"/>
+<h1>👨‍💻 Dheeraj Kumar</h1>
+<h3>Full-Stack Developer · C++ &amp; JavaScript · Exploring the 3D Web</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Hey+there!+I%27m+Dheeraj+%F0%9F%91%8B;Full-Stack+Builder+%7C+React+%2B+TypeScript;C%2B%2B+%7C+JavaScript+%7C+TypeScript;Turning+side+projects+into+full+ones+%F0%9F%9A%80;Exploring+3D+Web+with+Three.js+%E2%9C%A8" alt="Typing SVG"/>
@@ -171,6 +172,5 @@ I'm always up for a good idea, a code review, or a collab on something creative.
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
